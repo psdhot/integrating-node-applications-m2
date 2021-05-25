@@ -1,0 +1,4 @@
+{
+	"node":true, // removes "require" warnings
+	"esversion": 8
+}
